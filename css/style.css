@@ -64,8 +64,16 @@ main {
 .article_one_one {
   width: 50%;
 }
+.article_one_one .heading_two {
+  font-size: 50px;
+}
+.span {
+  font-weight: 50;
+}
 .article_one_one img {
   width: 100%;
+}
+.heading_five {
 }
 #button {
   background-color: #ffffff;
